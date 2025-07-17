@@ -39,8 +39,8 @@ Improvements
 
 ```bash
 # 1. Clone repository
-git clone <repository-url> ai-searching
-cd ai-searching
+git clone https://github.com/mirandatatiana/Tecnical-task.git
+cd resource-results-task
 
 # 2. Install dependencies
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material tailwindcss postcss autoprefixer
