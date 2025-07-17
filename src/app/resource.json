@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "Article",
+    "title": "Urban Migration and Environmental Impact",
+    "author": "J. Smith",
+    "year": 2022,
+    "source": "Journal of Urban Studies – University of Amsterdam",
+    "credibility": "High",
+    "sourceType": "University",
+    "preview": "The study reveals that urban migration has contributed to a 15% rise in carbon emissions in rapidly growing metropolitan areas between 2015 and 2022."
+  },
+  {
+    "id": 2,
+    "type": "Book",
+    "title": "Sustainable Cities",
+    "author": "L. Chen",
+    "year": 2020,
+    "source": "Green Press",
+    "credibility": "Medium",
+    "sourceType": "Private Publisher",
+    "preview": "Chen proposes a framework for urban sustainability, but provides limited data for post-2020 developments, making further validation necessary."
+  },
+  {
+    "id": 3,
+    "type": "Paper",
+    "title": "Migration Patterns in Europe",
+    "author": "A. Rossi",
+    "year": 2021,
+    "source": "European Demographics Conference – Humboldt University",
+    "credibility": "High",
+    "sourceType": "Conference (Academic)",
+    "preview": "The paper presents a longitudinal analysis of internal EU migration trends, showing a consistent population shift from rural to urban zones in over 12 countries."
+  },
+  {
+    "id": 4,
+    "type": "Article",
+    "title": "Socioeconomic Drivers of Urbanization",
+    "author": "K. Patel",
+    "year": 2019,
+    "source": "Urban Economics Review",
+    "credibility": "Low",
+    "sourceType": "Independent Author",
+    "preview": "The author discusses potential economic motives behind urban growth but lacks supporting data and peer-reviewed references."
+  },
+  {
+    "id": 5,
+    "type": "Book",
+    "title": "The Future of Urban Living",
+    "author": "M. Dubois",
+    "year": 2023,
+    "source": "CityLife Publishing – ETH Zurich",
+    "credibility": "High",
+    "sourceType": "University Publisher",
+    "preview": "Dubois argues that future urban planning must prioritize equity and energy efficiency, supported by case studies from Amsterdam and Singapore."
+  }
+]
