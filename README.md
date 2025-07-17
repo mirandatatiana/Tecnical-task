@@ -18,7 +18,12 @@ An AI-powered search application that dynamically queries and displays resources
 - **Save Action**  
   - Toggle bookmark icon (outline ↔ filled) and “Save” ↔ “Saved” text  
 - **Fact-Check Action**  
-  - Reveal credibility status (`High`, `Medium`, `Low`) on click  
+  - Reveal credibility status (`High`, `Medium`, `Low`) on click
+ 
+Improvements
+- Add drop-shadows, hover transitions, and subtle filters to cards, buttons, and the modal for depth.
+- Introduce customizable color palettes and dark mode support via Tailwind’s dark: variants.
+- Animate icon transforms and modal entry/exit with Framer Motion for smoother feedback.
 
 ---
 
